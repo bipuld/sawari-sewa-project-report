@@ -41,8 +41,5 @@ The report includes:
 
 This repository contains **only the project report (PDF)** for academic and documentation purposes. The source code and implementation files are **not included** in this repository.
 
-## License
 
-This report is shared for educational and reference purposes only. Please do not copy or reproduce this work without proper permission or citation.
 
-© 2025 Bipul Dawadi & Sushant Subedi
